@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+uploads/*
+!uploads/.gitkeep
+test.txt
+test.zip
+malware.exe
